@@ -23,12 +23,12 @@ THEN the password is either displayed in an alert or written to the page
 
 SITE CONTENTS
 
-<h1>HTML<h1>
-  tThis html page includes the password generator and page details
+  <h1>HTML<h1>
+  This html page includes the password generator and page details
   <h1>CSS<h1>
-    The css page styles the various buttons and slider on the page
-    <h1>Javascript<h1>
-      This page adds functionality to the buttons on the page and provides the commands needed to make the buttons function as directed
+  The css page styles the various buttons and slider on the page
+  <h1>Javascript<h1>
+   This page adds functionality to the buttons on the page and provides the commands needed to make the buttons function as directed
 
 
 
