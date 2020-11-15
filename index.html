@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Password Generator</title>
 
+  
     
   
     <link rel="stylesheet" href="style.css" />
@@ -52,5 +53,34 @@
             
             <div id="lastPasswords"></div>
     <script src="script.js"></script>
+    <script type="text/javascript">
+     var confirmUppercase = confirm("Do you want uppercase letters?");
+      var confirmLowercase = confirm("Do you want lowercase letters?");
+      var confirmCharacters = confirm("Do you want special characters");
+
+      // If the user wants uppercase
+      if (confirmUppercase) {
+        alert("Uppercase Included");
+        let values = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+      }
+      // If the user wants lowercase
+      else if (confirmLowercase) {
+        alert("Lowercase Included");
+        let values="abcdefghijklmnopqrstuvwxyz"
+      }
+      // If user wants special characters
+      else {
+        alert("Special Characters Included");
+        let values="!@#$%^&*()_+{}[]"
+      }
+    
+    
+    
+    
+    
+    
+    
+    
+    </script>
   </body>
 </html>
