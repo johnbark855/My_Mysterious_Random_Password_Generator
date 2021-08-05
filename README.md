@@ -5,6 +5,14 @@ Included features consist of customizable settings to determine password length 
 The password generator has prompts to allow the user to chose if they want uppercase,lowercase, and special characters. 
 It follows the listed criteria:
 
+
+Technologies used:
+<ul>
+<li>HTML</li> 
+<li>CSS</li>
+<li>Javascript</li>
+</ul>
+
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
