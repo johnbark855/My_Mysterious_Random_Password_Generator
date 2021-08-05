@@ -39,9 +39,6 @@ SITE CONTENTS
    This page adds functionality to the buttons on the page and provides the commands needed to make the buttons function as directed
 
 
-Here is a picture of the webpage:
-<img src="https://dm2305files.storage.live.com/y4megMdgrN8ltNHTmJzYBME2V_sMUwhMOLqsUEWFn4lx8YLSegevdUJAuOtJeDguPMGTrS-sRrWzJRm7isElhhf5roScVmXrz-OGzY9mn5_WMEXSiHTc9zhrjJn6EQ4KUllBxulEu-QATZ4XVyDRG1K3yu_mHPTi5_cA5qUkvZUWS5qsvv_dPPoxcmDy85OI9D7?width=1919&height=992&cropmode=none" width="1919" height="992" />
-
 Here is the URL to the webpage:
 https://johnbark855.github.io/My_Mysterious_Random_Password_Generator/
 
